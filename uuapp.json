@@ -1,0 +1,17 @@
+{
+  "product": "new_app_test",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "new_app_test-hi": {},
+  "new_app_test-server": {}
+}
